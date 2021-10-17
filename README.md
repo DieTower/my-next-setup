@@ -28,15 +28,15 @@
 
     
 1. É necessário dar *git clone*:
-```bash
-# Clonar o repositório
-$ git clone https://github.com/DieTower/my-next-setup
-```
+    ```bash
+    # Clonar o repositório
+    $ git clone https://github.com/DieTower/my-next-setup
+    ```
 2. Após entrar através do terminal na pasta clonada devemos descarregar todas as dependencias(a famosa pasta *node_modules*):
-```bash
-# Descarregar dependencias
-$ npm install
-```
+    ```bash
+    # Descarregar dependencias
+    $ npm install
+    ```
 
 ## ✨ Executar projeto
 
@@ -47,7 +47,6 @@ $ npm run dev
 
 #### Executar em ambiente de "produção":
 ```bash
-# Em modo de desenvolvimento devemos utilizar o comando:
 $ npm run begin
 ```
 
