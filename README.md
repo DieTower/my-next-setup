@@ -1,9 +1,5 @@
 # My NextJS setup
 
-<div style="padding: 10px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
-	🚧 Projeto em produção 🚀 em desenvolvimento... 🚧
-</div>
-
 ## 📜 Descrição
 
 <p>
@@ -22,21 +18,22 @@
 ![Badge](https://img.shields.io/badge/Chakra%20UI-1.6.10-%23319795?style=for-the-badge&logo=Chakra-UI)
 
 ## 📋 Pré-requisitos
-<div style="padding: 10px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+---
 ⚠️ Para rodar este setup é necessário ter <a href="https://nodejs.org/">NodeJS</a> instalado.
-</div>
+
+---
 
     
 1. É necessário dar *git clone*:
-    ```bash
-    # Clonar o repositório
-    $ git clone https://github.com/DieTower/my-next-setup
-    ```
+```bash
+# Clonar o repositório
+$ git clone https://github.com/DieTower/my-next-setup
+```
 2. Após entrar através do terminal na pasta clonada devemos descarregar todas as dependencias(a famosa pasta *node_modules*):
-    ```bash
-    # Descarregar dependencias
-    $ npm install
-    ```
+```bash
+# Descarregar dependencias
+$ npm install
+```
 
 ## ✨ Executar projeto
 
