@@ -1,6 +1,9 @@
 // import Head from 'next/head'
 // import Image from 'next/image'
 
+// import "@styles/style.scss";
+import styles from "@styles/style.module.css";
+
 import { Flex, Grid, GridItem } from "@chakra-ui/layout";
 
 const Home = () => {
@@ -15,7 +18,7 @@ const Home = () => {
         templateColumns="1fr 1fr"
         templateRows="1fr 1fr">
         
-        <GridItem rowSpan={2} bgColor="blue">
+        <GridItem className={styles.Hey} rowSpan={2}>
           
         </GridItem>
         
