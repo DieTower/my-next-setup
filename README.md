@@ -31,7 +31,7 @@ $ git clone https://github.com/DieTower/my-next-setup
 ```
 2. Após entrar através do terminal na pasta clonada devemos descarregar todas as dependencias(a famosa pasta *node_modules*):
 ```bash
-# Descarregar dependencias
+# Descarregar todas as dependencias
 $ npm install
 ```
 
